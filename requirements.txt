@@ -1,0 +1,10 @@
+mne
+numpy
+pandas
+scikit-learn
+mne-icalabel
+autoreject
+scipy
+pyriemann
+lazypredict
+lightgbm
